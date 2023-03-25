@@ -27,9 +27,9 @@ v2ray = V2Ray('localhost', '8080', 'session_token')
 
 result = v2ray.create_account('vmess', 'My V2Ray Account', 10, 30)
 if result:
-print(result)
+    print(result)
 else:
-print('Failed to create account')</code></pre>
+    print('Failed to create account')</code></pre>
 <h3>Deleting an account</h3>
 <p>To delete a V2Ray account, call the <code>delete_account</code> method with one of the following parameters:</p>
 <ul>
@@ -41,9 +41,9 @@ v2ray = V2Ray('localhost', '8080', 'session_token')
 
 result = v2ray.delete_account('My V2Ray Account')
 if result:
-print(result)
+    print(result)
 else:
-print('Failed to delete account')</code></pre>
+    print('Failed to delete account')</code></pre>
 <h2>License</h2>
 <p>This code is licensed under the <a href="https://opensource.org/licenses/MIT">MIT License</a>. Feel free to use it in your own projects or modify it to suit your needs.</p>
 </body>
