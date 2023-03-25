@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>V2Ray Python API </title>
+  
 </head>
 <body>
     <h1>V2Ray Python API</h1>
