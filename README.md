@@ -46,5 +46,8 @@ else:
     print('Failed to delete account')</code></pre>
 <h2>License</h2>
 <p>This code is licensed under the <a href="https://opensource.org/licenses/MIT">MIT License</a>. Feel free to use it in your own projects or modify it to suit your needs.</p>
+
+<h2>Wrote By</h2>
+<p>Wrote by @Santrich</p>
 </body>
 </html>
